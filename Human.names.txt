@@ -1,0 +1,22 @@
+// all possible names
+name: Superhuman, Superterran, Supertellan, Superpriman, Supermidgardian
+
+desc1: Pacifist Ecologists
+desc2: Overpowered in Every Aspect
+desc3: The overpowered Superhuman race posesses all the advantages and none of the disadvantages of the other races thanks to ancient Precursor technology.
+
+// possible home system names
+home: Earth, Terra, Tellus, Prime, Midgard
+
+title:     Leader
+fulltitle: Leader
+
+// possible leader names
+leader: Alexander, Bladrov II, Durash IV, Johann III, Lasitus, Strader
+
+// ship names, by size: 1-small, 2-medium, 3-large, 4-huge
+ship1: Sentry, Survey, Courier, Explorer, Seeker, Messenger, Patrol
+ship2: Frigate, Corvette, Gunboat, Fighter, Brigade, Shrike, Commando
+ship3: Cruiser, Escort, Warship, Defender, Carrier, Vanguard, Harrier
+ship4: Dreadnought, Battleship, Dreadstar, Devastator, War Cruiser, Avenger, Destroyer
+

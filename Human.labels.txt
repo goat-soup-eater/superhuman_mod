@@ -1,0 +1,53 @@
+// race-specific variables (must start with _)
+_empire                           | Superhuman Coalition, Superterran Coalition, Supertellan Coalition, Superpriman Coalition, Supermidgardian Coalition
+_race                             | Superhuman, Superterran, Supertellan, Superpriman, Supermidgardian
+_race_plural                      | Superhumans, Superterrans, Supertellans, Superprimans, Supermidgardians
+_title                            | Leader
+_nameTitle                        | Leader
+
+//
+// All text below this point is copyright 2018-2020 Jeff Colucci
+// 
+// Licensed under the Creative Commons License, 
+// Attribution-NonCommercial-NoDerivatives 4.0 International (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     https://creativecommons.org/licenses/by-nc-nd/4.0/
+//  
+// This license is legally binding. Please review this license before altering 
+// or distributing any material covered under this license.
+//
+
+// Advisor text
+MAIN_ADVISOR_TITLE                | Superhuman Advisor
+MAIN_ADVISOR_BUTTON_OK            | Dismiss
+MAIN_ADVISOR_SCOUT                | 2 Scouts and 1 Colony Ship ready for deployment. Send Scouts to explore nearby stars and then send Colony Ship to habitable world to found colony.
+MAIN_ADVISOR_TRANSPORT            | %1 colony establishment process successful. Transports from Earth to %1 way to accelerate local planetary development.
+MAIN_ADVISOR_DIPLOMACY            | Aliens found. Utilize trained vaporteams to access more information and locate alien vaporteams. Use limited mind-reader device to see alien leader personality and plan accordingly.
+MAIN_ADVISOR_SHIP_ENGINE          | Light-speed limit broken. Utilize advancement on ships to increase mobility.
+MAIN_ADVISOR_RALLY_POINTS         | War has come. Utilize our many advantages to succeed.
+MAIN_ADVISOR_MISSILE_BASES        | Defensive missile bases combined with our abilities posess potential of incredible planetary defense.
+MAIN_ADVISOR_SHIP_WEAPON          | Weapons advancement detected. Utilize advancement to assist in galactic conquest operations if Leader deems it prudent.
+MAIN_ADVISOR_COUNCIL              | Galactic Council meeting imminent. Improve relations with other races or focus on terraforming to win election and control galaxy.
+MAIN_ADVISOR_REBELLION            | Rebellion on %1 must be destroyed as soon as possible to maintain internal cohesion. Send in kill-teams immediately.
+MAIN_ADVISOR_RESIST_COUNCIL       | Council and associates must be destroyed.
+MAIN_ADVISOR_COUNCIL_RESISTED     | Rebel forces must be destroyed.
+
+// text for endings... '#' represents a paragraph break
+// variables: %1 Game year, %2 player name, %3 player race, %4 player empire, %5 leader name, %6 leader race, %7 leader empire, %8 is special race-specific text described below
+GAME_OVER_MILITARY_LOSS2          | In year %1, Superhuman civilization was somehow defeated, in spite of how absurdly overpowered it is.#It's illustrious history of triumphs and failures has been erased, considered irrelevant by its conquerors.
+GAME_OVER_COUNCIL_LOSS2        | Let it be known that, in the year %1, the Leader of the Galaxy was elected, ensuring perpetual interstellar peace. All Hail %5!
+GAME_OVER_COUNCIL_MILITARY_LOSS2      | In the year %1, Leader of the Galaxy %2 was recorded as the greatest failure in history, somehow allowing rebels to destroy both Superhuman civilization and the New Republic.
+GAME_OVER_REBELLION_LOSS2         | In the year %1, the story of the futile and disasterous rebellion against all-powerful Leader of the New Republic concluded, resulting in both the utter destruction of Earth and extermination of all Superhumans in the galaxy.
+GAME_OVER_MILITARY_WIN2           | Let it be known that, in the year %1, perpetual Superhuman rule was enacted across the galaxy when all other life was destroyed. A future of peace, exploration and achievement is promised for future generations.#All Hail %2!
+GAME_OVER_MILITARY_ALLIANCE_WIN2  | Let it be known that, in the year %1, perpetual Superhuman rule was enacted across the galaxy when their and their allies' forces eradicated all other life in the galaxy. A future of peace, exploration and achievement is promised for future generations.#All Hail %2!
+GAME_OVER_COUNCIL_WIN2         | Let it be known that, in the year %1, the Superhuman race was elected the Leaders of the Galaxy, ensuring perpetual interstellar peace. All Hail %2!
+GAME_OVER_ALLIANCE_WIN2           | In the year %1, Leader %2 voted for %5, a trusted ally.#Thanks to his political wisdom, the Superhuman race is guaranteed a peaceful existence under %6 rule. 
+GAME_OVER_COUNCIL_MILITARY_WIN2       | Let it be known that, in the year %1, a permanent peace was guaranteed to all races with your election as Leader of the Galaxy.#With the end of war, the free and open interchange of cultures and ideas has become the norm. All Hail %2!
+GAME_OVER_REBELLION_WIN2          | In the year %1, the Superhuman race led a rebellion against The Leader of the Galaxy, %5 and the entire New Republic.#This victory ensured permanent fame along with a lasting peace and independence for all Superhumans. 
+GAME_OVER_REBEL_ALLIANCE_WIN2     | In the year %1, the Superhuman race and it's allies led a rebellion against The Leader of the Galaxy, %5 and the entire New Republic.#This victory ensured permanent fame along with a lasting peace and independence for all %3 citizens. 
+
+// This text is the %8 variable in some of the game over text... when this race wins the game
+GAME_OVER_ALLIANCE_WIN3           | the power of the Superhumans
+GAME_OVER_REBELLION_LOSS3         | the absolutely overpowered Superhumans control
